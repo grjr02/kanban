@@ -1,0 +1,32 @@
+*{
+    background-image: url(src/assets/images/38564491-a-big-hot-air-balloon-a-contemporary-style-with-pastel-palette-light-blue-cloudy-sky-background-vect.jpg);
+
+}
+
+.main{
+    height: 100%;
+}
+.header{
+    margin: auto;
+    background-color: white;
+    height: 50px;
+    overflow: hidden;
+    text-align: center;
+
+}
+.login-button-group{
+    float: right;
+    //width:100px;
+    height:100%;
+}
+.login-button{
+    //float: right;
+    height:100%;
+    background-color: white;
+    text-align: center;
+}
+.header-title{
+    
+    margin-right: 450px;
+
+}
